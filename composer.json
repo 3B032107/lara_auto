@@ -1,0 +1,16 @@
+{
+    "name": "user/lara_auto",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "src/Demo"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jia-Ju Liao",
+            "email": "3b032107@gm.student.ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
