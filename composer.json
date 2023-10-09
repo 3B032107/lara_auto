@@ -12,5 +12,13 @@
             "email": "3b032107@gm.student.ncut.edu.tw"
         }
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog": "^3.4" ,
+		"nesbot/carbon": "^1.21"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    }
 }
